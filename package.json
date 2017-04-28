@@ -1,0 +1,23 @@
+{
+  "name": "fish-feeder",
+  "version": "1.0.0",
+  "description": "Fish Feeder",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverrat/fish-feeder.git"
+  },
+  "author": "Jerry Gray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silverrat/fish-feeder/issues"
+  },
+  "homepage": "https://github.com/silverrat/fish-feeder#readme",
+  "dependencies": {
+    "onoff": "^1.1.2",
+    "hx711": "^0.3.0"
+  }
+}
